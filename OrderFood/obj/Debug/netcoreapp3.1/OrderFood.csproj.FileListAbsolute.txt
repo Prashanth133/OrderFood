@@ -1,0 +1,12 @@
+C:\Users\prash\source\repos\OrderFood\OrderFood\bin\Debug\netcoreapp3.1\OrderFood.exe
+C:\Users\prash\source\repos\OrderFood\OrderFood\bin\Debug\netcoreapp3.1\OrderFood.deps.json
+C:\Users\prash\source\repos\OrderFood\OrderFood\bin\Debug\netcoreapp3.1\OrderFood.runtimeconfig.json
+C:\Users\prash\source\repos\OrderFood\OrderFood\bin\Debug\netcoreapp3.1\OrderFood.runtimeconfig.dev.json
+C:\Users\prash\source\repos\OrderFood\OrderFood\bin\Debug\netcoreapp3.1\OrderFood.dll
+C:\Users\prash\source\repos\OrderFood\OrderFood\bin\Debug\netcoreapp3.1\OrderFood.pdb
+C:\Users\prash\source\repos\OrderFood\OrderFood\obj\Debug\netcoreapp3.1\OrderFood.AssemblyInfoInputs.cache
+C:\Users\prash\source\repos\OrderFood\OrderFood\obj\Debug\netcoreapp3.1\OrderFood.AssemblyInfo.cs
+C:\Users\prash\source\repos\OrderFood\OrderFood\obj\Debug\netcoreapp3.1\OrderFood.csproj.CoreCompileInputs.cache
+C:\Users\prash\source\repos\OrderFood\OrderFood\obj\Debug\netcoreapp3.1\OrderFood.dll
+C:\Users\prash\source\repos\OrderFood\OrderFood\obj\Debug\netcoreapp3.1\OrderFood.pdb
+C:\Users\prash\source\repos\OrderFood\OrderFood\obj\Debug\netcoreapp3.1\OrderFood.genruntimeconfig.cache
